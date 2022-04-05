@@ -229,7 +229,7 @@ class _CharactersScreenState extends State<CharactersScreen> {
             return const Text('test');
           },
         ),
-      ),
+      
     );
   }
 }
